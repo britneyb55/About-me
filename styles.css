@@ -1,0 +1,9 @@
+.con {
+  padding-top: 100px;
+  text-align: center;
+
+  width: 75%;
+}
+.title {
+  justify-content: right !important;
+}
