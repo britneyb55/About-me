@@ -1,9 +1,10 @@
-.con {
-  padding-top: 100px;
-  text-align: center;
+.pad{
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  background-color: lightblue;
 
-  width: 75%;
-}
 .title {
   justify-content: right !important;
 }
