@@ -15,15 +15,30 @@
 
 .my-divider {
   padding-top: 13;
+  padding-bottom:13;
   border: none;
   height: 16px;
   background-color: rgb(173, 36, 157);
   opacity: 1;
+
 }
 
-.spacers {
-  padding-bottom: 15px;
+.card-img-set {
+    height: 200px;        /* Set this to your preferred height */
+    width: 100%;          /* Forces the image to fill the card width */
+    object-fit: contain;  /* Keeps the full Arduino layout visible without cropping */
+    background-color: #f8f9fa; /* Optional: adds a subtle light grey background to empty side-spaces */
 }
+
+
+.bungee-tint-regular {
+  font-family: "Bungee Tint", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+ 
+}
+
+
 .lits {
   padding-top: 30px;
   padding-left: 310px;
