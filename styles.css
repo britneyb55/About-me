@@ -1,9 +1,34 @@
-.pad{
-  padding-left: 6px;
-  padding-right: 6px;
-  padding-top: 16px;
-  padding-bottom: 16px;
+.pad {
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.backcolor {
   background-color: lightblue;
+}
+
+.purple-bg {
+  background-color: #663399;
+}
+
+.my-divider {
+  padding-top: 13;
+  border: none;
+  height: 16px;
+  background-color: rgb(173, 36, 157);
+  opacity: 1;
+}
+
+.spacers {
+  padding-bottom: 15px;
+}
+.lits {
+  padding-top: 30px;
+  padding-left: 310px;
+  padding-right: 1150px;
+}
 
 .title {
   justify-content: right !important;
